@@ -50,3 +50,12 @@ We implemented and demonstrated six core IR concepts:
    ```bash
    git clone https://github.com/KapilBhardwaj2702/IRBasics-VectorSpaceProximity-workshop.git
    cd IRBasics-VectorSpaceProximity-workshop
+
+## Folder Structure
+
+.
+├── Data/                          # Folder containing input .txt documents
+├── IRBasics_VectorSpaceProximity.ipynb   # Main Jupyter Notebook
+├── requirements.txt              # Python package dependencies
+├── .gitignore                    # Git ignore file (e.g., ignore __pycache__, .ipynb_checkpoints)
+├── README.md                     # Project overview and documentation
